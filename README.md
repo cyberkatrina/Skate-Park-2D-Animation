@@ -25,4 +25,7 @@ Katsiaryna Aliashkevich created the board and wheels class. She also drew all th
 
 Rami Awada created the swings, skater, and arms class. He also completed the halfpipe placements. 
 
-Ethan Rose created the clouds class and lightning effect. 
+Ethan Rose created the clouds class and lightning effect.
+
+<img width="683" alt="Screenshot 2023-03-13 at 11 34 30 AM" src="https://user-images.githubusercontent.com/113384816/224766701-8f42a14d-75e4-475b-9560-3657cfee607a.png">
+
