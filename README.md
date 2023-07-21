@@ -21,7 +21,7 @@ The Wheels class sets up 2 wheels on each skateboard to rotate along with the mo
 
 <img width="683" alt="Screenshot 2023-03-13 at 11 34 30 AM" src="https://user-images.githubusercontent.com/113384816/224766701-8f42a14d-75e4-475b-9560-3657cfee607a.png">
 
-Katsiaryna Aliashkevich created the board and wheels class. She also drew all the vector objects inside of Illustrator so they could be imported as SVG files inside of Processing.
+Katsiaryna Aliashkevich created the board and wheels class. I also drew all the art assets as vector objects inside of Illustrator so they could be imported as SVG files inside of Processing.
 
 Rami Awada created the swings, skater, and arms class. He also completed the halfpipe placements. 
 
