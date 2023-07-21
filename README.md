@@ -8,11 +8,9 @@ The classes that were created for this assignment were: Arms, Clouds, Skater, Wh
 To fully run the project:
 
 1. Create this file structure.
-2. Download the following files and put them in a "data" folder inside the project directory.
+2. Download the data files and put them in a "data" folder inside the project directory.
 
 <img width="204" alt="Screenshot 2023-03-13 at 11 14 50 AM" src="https://user-images.githubusercontent.com/113384816/224762660-78d666b5-cb68-4c04-9898-0433652398fe.png">
-
-[data.zip](https://github.com/cyberkatrina/Skate-Park-2D-Animation/files/10959384/data.zip)
 
 The Swings class sets up the frame of reference for the objects that move like a pendulum (i.e. the board, wheels, skater, and arms). The swings class also has all the fun math stuff for gravity and drag modulation.
 The Skater class sets up the skater person to jump up and down and face the direction of motion.
